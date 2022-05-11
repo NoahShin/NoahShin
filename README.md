@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+<img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=Amazon AWS&logoColor=232F3E"/>
 <!--
 **NoahShin/NoahShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
