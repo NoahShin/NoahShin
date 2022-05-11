@@ -4,6 +4,10 @@
 
 <img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=Amazon AWS&logoColor=232F3E"/>
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=MySQL&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Docker-gray?style=flat-square&logo=Docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square&logo=TypeScript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=Node.js&logoColor=339933"/>
 <!--
 **NoahShin/NoahShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
