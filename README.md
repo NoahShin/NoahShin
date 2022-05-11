@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/Docker-gray?style=flat-square&logo=Docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square&logo=TypeScript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=Node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Koa-gray?style=flat-square&logo=Koa&logoColor=33333D"/>
+<img src="https://img.shields.io/badge/NestJS-gray?style=flat-square&logo=NestJS&logoColor=E0234E"/>
 <!--
 **NoahShin/NoahShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
