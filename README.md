@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-
+<div align="center">
+#
 <img src="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=Amazon AWS&logoColor=232F3E"/>
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=MySQL&logoColor=4479A1"/>
@@ -16,12 +16,12 @@
 <img src="https://img.shields.io/badge/Redis-gray?style=flat-square&logo=Redis&logoColor=DC382D"/>
 
 
-
+#
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahShin&show_icons=true&theme=material-palenight)
 
 
 
-
+</div>
 
 
 <!--
