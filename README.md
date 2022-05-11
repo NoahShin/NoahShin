@@ -14,6 +14,16 @@
 <img src="https://img.shields.io/badge/Jira Software-gray?style=flat-square&logo=Jira Software&logoColor=0052CC"/>
 <img src="https://img.shields.io/badge/Slack-gray?style=flat-square&logo=Slack&logoColor=4A154B"/>
 <img src="https://img.shields.io/badge/Redis-gray?style=flat-square&logo=Redis&logoColor=DC382D"/>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahShin&show_icons=true&theme=material-palenight)
+
+
+
+
+
+
 <!--
 **NoahShin/NoahShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
